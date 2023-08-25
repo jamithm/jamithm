@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mercadjamith@gmail.com**
 
-- 📄 Know about my experiences [hhttps://www.linkedin.com/in/jamith-mercado/](hhttps://www.linkedin.com/in/jamith-mercado/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jamith-mercado](https://www.linkedin.com/in/jamith-mercado)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
