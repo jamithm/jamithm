@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Jamith Mercado</h1>
 <h3 align="center">Full Stack Developer Web & Mobile</h3>
 
-- 👨‍💻 All of my projects are available at [https://jamithm.online/#portfolio](https://jamithm.online/#portfolio)
+- 👨‍💻 All of my projects are available at [https://jamithm.online/#portfolio](https://jamithm.online/portfolio)
 
-- 📝 I regularly write articles on [https://jamithm.online/#blog](https://jamithm.online/#blog)
+- 📝 I regularly write articles on [https://jamithm.online/#blog](https://jamithm.online/blog)
 
 - 📫 How to reach me **mercadjamith@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jamith-mercado](https://www.linkedin.com/in/jamith-mercado)
+- 📄 Know about my experiences [https://www.linkedin.com/in/jamith-mercado-a20320348](https://www.linkedin.com/in/jamith-mercado-a20320348)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jamith-mercado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamith-mercado/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jamith-mercado-a20320348/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jamith-mercado-a20320348/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/jamith.mercado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jamith.mercado" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jamith.m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jamith.m/" height="30" width="40" /></a>
 </p>
